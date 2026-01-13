@@ -8,6 +8,16 @@ A simple React application that displays a list of cocktails and allows users to
 | :---: | :---: | :---: | :---: | :---: |
 | ![Home Page](public/screens/home-page.png) | ![Search Results](public/screens/search-page.png) | ![Cocktail Details](public/screens/product-detail-page.png) | ![Error Page](public/screens/error-page.png) | ![About Page](public/screens/about-page.png)
 
+## Features
+
+- **Search Functionality:** Quickly find cocktails by name using the search bar.
+- **Cocktail List:** Browse a collection of cocktails with high-quality images.
+- **Detailed View:** Get comprehensive information about each drink, including ingredients, measurements, and preparation instructions.
+- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
+- **Error Handling:** Custom 404 page for non-existent routes and feedback for failed searches.
+- **Dynamic Routing:** Seamless navigation between pages using React Router.
+
+
 ## Technologies Used
 
 - **React:** Frontend library for building user interfaces.
