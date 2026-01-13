@@ -1,7 +1,7 @@
+# React Cocktails
 
-Wait, I'll just provide the section.
+A simple React application that displays a list of cocktails and allows users to search for specific cocktails by name.
 
-```markdown
 ## Screenshots
 
 | Home Page | Search Results | Cocktail Details | Error Page | About Page |
@@ -46,14 +46,6 @@ npm start
 ```
 The application will be available at `http://localhost:3000`.
 
-## Technologies Used
-
-- **React:** Frontend library for building user interfaces.
-- **React Router:** For handling client-side routing.
-- **Axios:** For making API requests.
-- **CSS Modules / Styled Components:** For component-level styling.
-- **TheCocktailDB API:** Source for cocktail data.
-
 ## Deployment Fixes
 
 ### React Router Fix
@@ -67,22 +59,6 @@ To ensure the build process completes successfully in CI environments, update yo
 "build": "CI= react-scripts build",
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
-
-## Acknowledgments
-
-- **TheCocktailDB:** For providing the API for cocktail data.
-- **React:** For building the user interface.
-- **React Router:** For handling client-side routing.
-- **Axios:** For making API requests.
-- **CSS Modules / Styled Components:** For component-level styling.
-
 ## Contributing
 
 Contributions are welcome! Please submit a pull request for any improvements or bug fixes.
@@ -93,8 +69,17 @@ Contributions are welcome! Please submit a pull request for any improvements or 
 
 ## Author
 
-Aadhar41
+[Aadhar41](https://github.com/aadhar41)
+
+## Contact
+
+For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+
+## Acknowledgments
+
+- **TheCocktailDB:** For providing the comprehensive API for cocktail data.
+- The React and Open Source community for the amazing tools and documentation.
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
